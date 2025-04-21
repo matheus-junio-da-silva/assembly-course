@@ -1,7 +1,5 @@
 # assembly-course
 
-Gostaria de te ajudar com o resumo da seção Horse Store do curso Solidity Developer da Cyfrin Updraft. Vou elaborar um resumo técnico que abrange os principais conceitos, destacando exemplos práticos conforme solicitado.
-
 # Resumo da Seção Horse Store
 
 ## Introdução ao Assembly e Verificação Formal no Ethereum
